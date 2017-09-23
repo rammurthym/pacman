@@ -1,0 +1,7 @@
+Group Information:
+	Rammurthy Mudimadugula (rxm163730)
+	Juhitha Potluri (jxp161330)
+
+1) I have made some changes to PriorityQueue function in util.py file. That's why I'm attaching the file to the submission.
+
+2) My heuristic for q7 is working fine when run with command given in problem statement, but doesn't provide any results when run with autograder.py
